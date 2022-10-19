@@ -1,6 +1,7 @@
 ## Git Cheat Sheet
 
 List of Commands and practice with branching.
+STUFF ADDED
 ### Basic Commands:
 
 * 'git init' - initialize local repo in working directory
@@ -16,6 +17,6 @@ List of Commands and practice with branching.
 * 'git config -l' - list config for local repo
 
 ### Branch Commands
-*'git branch' - list local branches
-*'git branch branchName' = create local branch 'branchName'
-*'git checkout branchName' - switch to branch branchName
+* 'git branch' - list local branches
+* 'git branch branchName' = create local branch 'branchName'
+* 'git checkout branchName' - switch to branch branchName
